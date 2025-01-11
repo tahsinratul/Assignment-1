@@ -191,3 +191,34 @@ body{
 .cc{
     margin-top: -15px;
 }
+
+
+.bnr-aj{
+    display: flex;
+    margin-top: 24px;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 24px;
+    padding: 48px;
+    gap: 32px;
+}
+
+.radius{
+    border-radius: 24px;
+}
+
+.bold1{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.btn-aj{
+    background-color: #006A50;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 13px 26px;
+    margin-top: 8px;
+}
