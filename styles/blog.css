@@ -11,8 +11,13 @@
 nav{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: cente
 }
+
+.mrg{
+    margin: 0px 160px;
+}
+
 .btn-primary{
     color: #006A50 ;
     font-weight: 600;
@@ -40,9 +45,6 @@ nav{
 
 }
 
-body{
-    margin: 0 160px;
-}
 
 .banner-des{
     font-weight: 700;
@@ -292,4 +294,50 @@ ul{
     text-align: center;
     font-size: 20px;
     border: none;
+}
+
+.last{
+    text-align: center;
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    margin-top: 80px;
+    border-radius: 24px;
+}
+
+#btn-lst{
+    background-color: #006A50;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 13px 26px;
+    margin-top: 8px;
+    height: 55px;
+}
+
+#in-lst{
+    width: 600px;
+    height: 55px;
+    font-size: 18px;
+    border-radius:8px ;
+    border: none;
+    text-align: center;
+}
+
+.foot{
+    text-align: center;
+    background-color: white;
+    margin-top: 80px;
+    padding: 50px 160px;
+}
+
+.lst-lst{
+    margin: 0px 680px;
+    padding-top: 20px;
+}
+
+.sec-ft{
+    font-size: 32px;
+    font-weight: 700;
 }
