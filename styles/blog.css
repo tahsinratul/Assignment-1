@@ -38,6 +38,7 @@ nav{
     background-color: #C6E4D6;
     border-radius: 24PX;
     justify-content: space-between;
+    margin-top: 20px;
 
 }
 
@@ -56,9 +57,9 @@ body{
     height: 400px;
 }
 .banner-title{
-    font-size: 500;
-    font-weight: 24px;
     color: #0e0e0e50;
+    font-weight: 500;
+    font-size: 24px;
 }
 .banner-btn{
     background-color: #006A50;
@@ -72,5 +73,4 @@ body{
 .banner-content{
     height: 326px;
     width: 622px;
-    line-gap-override: 15;
 }
