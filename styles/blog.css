@@ -99,11 +99,95 @@ body{
 .skill-title{
     font-size: 20px;
     font-weight: 700;
-    color: #0e0e0e90;
+    color: #0e0e0e;
 }
 
 .skill-des{
     font-size: 16px;
     font-weight: 400;
-    color: #0e0e0e80;
+    color: #0e0e0e90;
+}
+
+.vision-container{
+    display: flex;
+    gap: 24px;
+}
+
+.vision{
+    padding: 32px;
+    background-color: white;
+    border-radius: 16px;
+    margin-top: 32px;
+}
+
+.vision-pp{
+    width: 64px;
+    height: 64px;
+}
+
+.vision-title{
+    font-size: 20px;
+    font-weight: 700;
+    color: #0e0e0e;
+}
+
+.vision-des{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0e0e0e90;
+}
+
+.bg-1{
+    background-color: #5490F540;
+}
+
+.bg-2{
+    background-color:#09A15C40 ;
+}
+.bg-3{
+    background-color: #FFC23940;
+}
+
+.btn-1{
+    background-color: #5490F5;
+     padding: 11px 20px;
+     border-radius: 8px;
+     color: white;
+     border: none;
+     margin-top: 10px;
+
+}
+
+.btn-2{
+    background-color: #09A15C;
+    padding: 11px 20px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    margin-top: 10px;
+
+
+}
+
+.btn-3{
+    background-color: #FFC239;
+    padding: 11px 20px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    margin-top: 10px;
+
+}
+.speech{
+    padding: 48px 24px;
+    background-color: white;
+    margin-top: 32px;
+    border-radius: 16px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 25px 37px ;
+}
+
+.cc{
+    margin-top: -15px;
 }
